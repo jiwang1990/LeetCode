@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author ChenBin
+ *
+ */
 public class ReverseInteger {
 	public int reverse(int x) {
 		int num = Math.abs(x);
