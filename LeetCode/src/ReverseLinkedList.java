@@ -1,3 +1,5 @@
+import org.binge.sortlist.ListNode;
+
 /**
  * 
  * @author ChenBin
