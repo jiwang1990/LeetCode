@@ -1,4 +1,3 @@
-import org.binge.sortlist.ListNode;
 
 /**
  * 
